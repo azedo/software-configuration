@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.editor.labelFormat": "medium",
+    "workbench.editor.tabCloseButton": "true",
+    "workbench.editor.showIcons": false,
+    "workbench.editor.enablePreview": false,
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 17,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "editor.tabSize": 2,
+    "editor.rulers": [80],
+    "editor.renderWhitespace": "boundary",
+    "editor.fontWeight": "400",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "phase",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "prettier.eslintIntegration": true,
+    // Very important: Install this plugin: https://github.com/be5invis/vscode-custom-css
+    // you'll need to change this to an absolute path on your computer
+    "vscode_custom_css.imports": [
+        "/Volumes/Macintosh HD/Users/wesbos/.vscodestyles.css"
+    ],
+    "languageStylus.useSeparator": false,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": {
+        "jsx":{
+            "attr_quotes": "single"
+        }
+    },
+    "sublimeTextKeymap.promptV3Features": true,
+    "workbench.panel.location": "bottom"
+}
